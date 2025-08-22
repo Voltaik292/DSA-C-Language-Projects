@@ -5,7 +5,7 @@ Each project is structured in its own folder with source code, project descripti
 
 ## 📂 Projects
 
-1. **[PolynomialsCalculate](./PolynomialsCalculator**  
+1. **[PolynomialsCalculate](./PolynomialsCalculator)**  
    *A Solid practical application for stacks and linked lits Data structures.*
 
 2. **[TournamentsSimulator](./TournamentsSimulator)**  
