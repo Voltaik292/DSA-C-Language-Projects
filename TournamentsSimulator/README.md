@@ -1,4 +1,4 @@
-# Football Tournament Simulator (C)
+# Football Tournament Simulator
 
 This project implements a **Football Tournament System** in C, based on **Queues, Stacks, and Linked Lists**.  
 The program determines both the **Champion** and the **Real Runner-up** of a knockout-style tournament.
