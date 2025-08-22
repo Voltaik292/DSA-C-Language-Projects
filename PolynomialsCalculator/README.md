@@ -29,5 +29,5 @@ Initial stack (top → bottom): D, C, B, A
 After 1st ADD: D+C, B, A
 After 2nd ADD: (D+C)+B, A
 After 3rd ADD: ((D+C)+B)+A
-**Result will be dsiplayed to results.txt outputfile**
+# Result will be dsiplayed to results.txt outputfile
 ```
